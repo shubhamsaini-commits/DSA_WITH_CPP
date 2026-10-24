@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0410-split-array-largest-sum) |
 | [1025-divisor-game](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0875-koko-eating-bananas) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -49,11 +51,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0069-sqrtx) |
+| [0410-split-array-largest-sum](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0875-koko-eating-bananas) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
@@ -117,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
