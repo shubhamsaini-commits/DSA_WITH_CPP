@@ -17,12 +17,8 @@ public:
 
     int maxDistance(vector<int>& position, int m) {
         sort(position.begin() , position.end());
-        int currMax = 0;
         int st = 0;
-        for(int x: position){
-            currMax = max(currMax , x);
-        }
-        int end = currMax;
+        int end = position[position.size()-1];
         int mid = st + (end-st)/2;
         int ans;
         while(st<=end){
