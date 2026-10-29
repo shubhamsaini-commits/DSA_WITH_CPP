@@ -8,26 +8,27 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
+
+// MORE IMPROVED SOLUTION FROM THE PREVIOUS ONE!!!! 
 class Solution {
 public:
     ListNode* removeElements(ListNode* head, int val) {
-        if(head == nullptr) return head;
-
+        ListNode dummy(0 , head);
+        ListNode* prev = &dummy;
         ListNode* temp = head;
-        ListNode* prev = head;
-       while(temp!=nullptr){
-        if(temp->val == val){
-            prev->next = temp->next;
-            temp = temp->next;
-            continue;
+
+        while(temp!=nullptr){
+            if(temp->val == val){
+                prev->next = temp->next;
+                ListNode* dlt = temp;
+                temp = temp->next;
+                delete dlt;
+            }else{
+                prev = prev->next;
+                temp = temp->next;
+            }
         }
-
-        prev = temp;
-        temp = temp->next;
-       }
-
-       if(head->val == val) return head->next;
-       
-        return head;
+        return dummy.next;
     }
 };
